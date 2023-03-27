@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../my_bottom_navigation.dart';
+import '../navigation/my_bottom_navigation.dart';
 import 'beranda/beranda_content.dart';
 
 class MainScreen extends StatefulWidget {
